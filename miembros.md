@@ -6,6 +6,8 @@
 * Capitán America
 * Falcon
 * Hank Pym
+* Megaman test
+* Saitama test
 * error test
 * Hawkeye
 * Hulk

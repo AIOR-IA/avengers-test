@@ -1,6 +1,7 @@
 ## Miembros
 
 * Black panther
+* other new hero
 * this is a new test git
 * Black Widow
 * Capitán America
@@ -9,6 +10,7 @@
 * Megaman test
 * Saitama test
 * error test
+* more test heroi
 * Hawkeye
 * Hulk
 * Iron Man
@@ -21,3 +23,4 @@
 * Wasp
 * Antman
 * Nick Fury
+* new hero test

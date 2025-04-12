@@ -6,6 +6,7 @@
 * Capitán America
 * Falcon
 * Hank Pym
+* error test
 * Hawkeye
 * Hulk
 * Iron Man
